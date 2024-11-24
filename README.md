@@ -23,5 +23,5 @@ Dessa necessidade, surgiu o projeto DevFreela que será desenvolvido neste curso
 - Acesso a dados com Entity Framework
 - Arquitetura Limpa
 
-![[Swagger-DevFreela.png]]
-![[Solution-DevFreela.png]]
+![Swagger](/Images/Swagger-DevFreela.png)
+![Solution-Explorer](/Images/Solution-DevFreela.png)
