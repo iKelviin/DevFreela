@@ -1,5 +1,5 @@
 ﻿
-namespace DevFreela.API.Models
+namespace DevFreela.Application.Models
 {
     public class UserSkillsInputModel
     {

@@ -1,7 +1,7 @@
-﻿using DevFreela.API.Entities;
+﻿using DevFreela.Core.Entities;
 using System.Diagnostics;
 
-namespace DevFreela.API.Models
+namespace DevFreela.Application.Models
 {
     public class ProjectViewModel
     {
