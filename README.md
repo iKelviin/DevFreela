@@ -1,4 +1,4 @@
-Esse projeto faz parte da minha formação na Mentoria .NET Start promovida pela Next Wave Education, durante o curso de ASP.NET Core liderado pelo professor Luis Felipe
+Esse projeto faz parte da minha formação na Mentoria .NET Start promovida pela Next Wave Education, durante o curso de ASP.NET Core liderado pelo professor Luis Felipe.
 
 ### Plataforma para cadastro e contratação de serviços de freelance de desenvolvedores
 O mercado de tecnologia não para de crescer. E com isso, a demanda por profissionais que possam atuar em projetos pontuais segue o mesmo ritmo.
@@ -17,11 +17,17 @@ Dessa necessidade, surgiu o projeto DevFreela que será desenvolvido neste curso
 4. Vão ser adicionadas mensagens ao projeto, sobre o avanço dele.
 5. O projeto poderá ser concluído, e o freelancer vai ter seu saldo atualizado, bem como seu perfil!
 
-### Conceitos aplicados até o momento
+### Conceitos aplicados até o momento:
 #### Formação ASP.NET Core
 - Rest APIs com ASP.NET CORE
 - Acesso a dados com Entity Framework
 - Arquitetura Limpa
+- Padrão Repository
+- Fluent Validation
+- CQRS com MediatR
+
+### Implementações futuras:
+- Testes unitarios
 
 ![Swagger](/Images/Swagger-DevFreela.png)
 ![Solution-Explorer](/Images/Solution-DevFreela.png)
